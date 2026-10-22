@@ -1,5 +1,5 @@
 //Sum of two integers
-//Name:Sarder Tanvir Hasan,Roll:202561201070
+//Name:Sarder Tanvir Hasan,Reg No:202561201070
 #include<stdio.h>
 int main(void)
 {
